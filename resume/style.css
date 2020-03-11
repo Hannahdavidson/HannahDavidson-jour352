@@ -1,0 +1,151 @@
+body{ 
+font-family: 'Open Sans', arial, sans-serif; 
+font-size: 1em;
+color: #444;
+ }
+
+#container {
+	width: 100%;
+	max-width:1200px;
+	margin: 0 auto; 
+	padding-bottom: 50px;
+}
+
+#title{
+	font-size: 1.5em; 
+	text-transform: uppercase;
+	color: #33485e;
+	font-weight: 600px;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 0px;
+	margin-left: 0px;
+	}
+
+#name {
+	font-size: 3em;
+	color: #33485e;
+	text-transform: uppercase;
+	text-align: center;
+	border-bottom: 1px solid #33485e; 
+	width: 60%;
+	min-width: 300px;
+	margin: 0 auto;
+}
+
+
+.sectionheader{
+	font-size: 1.5em; 
+	text-transform: uppercase; 
+	background-color: #33485e;
+	color:#fff;
+	margin-bottom: 10px;
+	margin-top: 20px;
+	margin-right: 0px;
+	margin-left: 0px;
+	width: 70%;
+	min-width: 300px;
+}
+
+.jobtitle{
+	font-size: 1.5em;
+	font-weight: 600;
+	margin-top: 10px;
+}
+
+.organization{ 
+	font-size: 1.5em;
+ }
+
+ .date{
+ 	font-style: italic;
+ 	font-size: 1em; 
+ 	margin-top: 2px;
+ }
+
+
+
+.descriptiontop{
+	margin-top: 10px;
+	margin-bottom: 10px; 
+	margin-left: 0px;
+	margin-right: 0px;
+	text-align: center;
+}
+
+.menu{
+	margin: 0px; 
+	padding: 0px; 
+	text-align: center;
+	margin-bottom: 15px;
+	margin-top: 10px;
+	margin-left: 400px;
+}
+
+.menu{
+	display: inline;
+	text-align: center; 
+}
+
+
+
+#degrees{
+	margin-top: 5px; 
+	margin-right: 0px;	
+	margin-left: 0px;
+	margin-bottom: 0px;
+}
+
+#do{ 
+margin-top: 5px;
+margin-bottom: 0px;
+margin-right: 0px; 
+margin-left: 0px;
+}
+
+
+.top{
+	width: 60%
+	min-width:300px;
+	margin: 0 auto;
+	margin-bottom: 30px; 
+}
+
+ ul{ 
+ 	font-size: 1em; 
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
