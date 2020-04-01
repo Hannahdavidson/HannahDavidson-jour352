@@ -1,0 +1,33 @@
+#content {
+	margin: 0 auto;
+	width: 900px; 
+}
+
+body{
+	font-family: serif
+	font-size: 13px;
+}
+
+h1{
+	font-family: helvetica;
+	font-size: 35px;
+}
+
+h3{
+	font-size: 11px;
+}
+
+
+blockquote{
+	font:24px/24px normal helvetica, sans-serif;
+	font-style: italic;
+	margin-top:20px;
+	margin-bottom: 15px;
+	color: red;
+	margin-left: 10px;
+	margin-right: 450px;
+	border-left: 4px solid #ccc;
+	text-align: left;
+}
+
+
