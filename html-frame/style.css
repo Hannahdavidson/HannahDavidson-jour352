@@ -1,0 +1,83 @@
+.headline {
+	font-size: 3em;
+	font-weight: 700;
+	text-align: center;
+	font-family: 'Merriweather', serif;
+}
+
+
+.byline{
+	font-size: 1em;
+	text-transform: uppercase;
+	font-family: 'Merriweather', serif;
+	text-align: center;
+}
+
+
+p{
+	font-family: georgia, serif;
+	line-height: 180%;
+
+}
+
+.chapterhead{
+	font-size: 2em;
+	text-align:left;
+	font-family: 'Merriweather', serif;
+}
+
+.nvh{
+	margin-left: 350px;
+}
+
+
+.caption{
+	margin-left: 350px;
+	color: grey;
+}
+
+
+.footer{
+	background-color: black;
+	text-align: center;
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
