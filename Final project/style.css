@@ -162,8 +162,26 @@ p{
 }
 
 
+blockquote{
+	font-size: 1.5em;
+	font-family: "Merriweather";
+	font-style: bold;
+	margin-top:20px;
+	margin-bottom: 15px;
+	color:  #9E2C44;
+	text-align: right;
+	border-right: 4px solid #ccc;
+	margin-left: 450px;
+	margin-right: 10px;
+}
 
-
+.caption1{ 
+	font-size: 1em;
+	font-family: "Merriweathert", sans-serif;
+	font-weight: 100;
+	text-align: right;
+	color: #000; 
+ }
 
 
 
