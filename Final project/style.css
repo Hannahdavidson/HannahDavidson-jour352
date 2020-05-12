@@ -93,7 +93,6 @@ p{
 	opacity: .7;
 }
 
-/*maybe change font family later?*/
 
 .hero-head{
 	font-family: "Playfair Display", serif; 
@@ -108,7 +107,7 @@ p{
 	font-size: .25em; 
 }
 
-/*first few things from video, not sure if necessary*/
+
 @media(max-width: 650px) {
 	p{
 		padding-left: 20px;	
@@ -129,7 +128,7 @@ p{
 }
 
 
-/*Quote, maybe change color?*/ 
+
 
 .quote{
 	font-family: "Merriweather", sans-serif;
