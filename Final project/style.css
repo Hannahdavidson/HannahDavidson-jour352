@@ -32,8 +32,10 @@ p{
 
 
 .caption{
-	margin-left: 350px;
+	text-align: left;
 	color: grey;
+	margin-left: 5%;
+	margin-right: 5%;
 }
 
 
@@ -80,7 +82,7 @@ p{
 
 .overlay {
 	position: absolute;
-	top: 20%;
+	top: 25%;
 	width: 100%;
 	background-color: #000;
 	opacity: .7;
@@ -147,8 +149,15 @@ p{
 }
 
 
+/*for images*/
 
+.productions{
+	text-align: center;
+}
 
+.pic{
+
+}
 
 
 
