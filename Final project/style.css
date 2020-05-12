@@ -7,7 +7,7 @@
 
 
 .byline{
-	font-size: 1em;
+	font-size: 1.3em;
 	text-transform: uppercase;
 	font-family: 'Merriweather', serif;
 	text-align: center;
@@ -21,7 +21,7 @@ p{
 }
 
 .chapterhead{
-	font-size: 2em;
+	font-size: 1.7em;
 	text-align:left;
 	font-family: 'Merriweather', serif;
 }
@@ -82,7 +82,7 @@ p{
 
 .overlay {
 	position: absolute;
-	top: 25%;
+	top: 23%;
 	width: 100%;
 	background-color: #000;
 	opacity: .7;
@@ -99,7 +99,7 @@ p{
 }
 
 .hero-sub{
-	font-family: "montserrat", sans-serif;
+	font-family: "Merriweather", sans-serif;
 	font-size: .25em; 
 }
 
@@ -127,14 +127,14 @@ p{
 /*Quote, maybe change color?*/ 
 
 .quote{
-	font-family: "montserrat", sans-serif;
-	color: #f23030; 
-	font-size: 3em;	
+	font-family: "Merriweather", sans-serif;
+	color: #9E2C44; 
+	font-size: 2em;	
 	font-weight: 700;
 	text-align: left;
 	padding: 15px 0 15px 0; 
-	border-top: 1px solid #f23030;
-	border-bottom: 1px solid #f23030;
+	border-top: 1px solid #9E2C44;
+	border-bottom: 1px solid #9E2C44;
 	margin-top: 20px;
 	margin-bottom: 20px; 
 }
@@ -142,7 +142,7 @@ p{
 
 .quote-attribution{
 	font-size: .5em;
-	font-family: "montserrat", sans-serif;
+	font-family: "Merriweathert", sans-serif;
 	font-weight: 100;
 	text-align: left;
 	color: #000; 
@@ -151,12 +151,9 @@ p{
 
 /*for images*/
 
-.productions{
-	text-align: center;
-}
-
-.pic{
-
+.original-image{
+	align-content: center;
+	width: 100%;
 }
 
 
