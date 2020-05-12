@@ -45,7 +45,12 @@ p{
 	color: white;
 }
 
-
+.intro{
+	font-size: 1.4em;
+	text-align: left;
+	font-family: georgia, serif;
+	font-weight: 700;
+}
 
 
 /* Tophat*/
